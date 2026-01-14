@@ -116,7 +116,7 @@ def generate_response(emotions, level):
 # -------------------------
 # Main Chat Interface #/human
 # -------------------------
-st.title("🤖 Emotion-Aware Study Buddy Chat")
+st.title("🤖 Emotion-Aware Study Buddy")
 
 if st.button("Get Guidance"):
     if not mood_input.strip() and not study_context.strip():
