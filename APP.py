@@ -5,7 +5,7 @@ from transformers import pipeline
 # Streamlit Page Config #/human
 # -------------------------
 st.set_page_config(
-    page_title="Human-Like Emotion-Aware Study Buddy",
+    page_title="Emotion-Aware Study Buddy",
     page_icon="🤖📚",
     layout="wide"
 )
