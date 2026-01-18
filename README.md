@@ -38,6 +38,7 @@ Built using **Streamlit** and **Hugging Face Transformers**, this app acts as a 
 ---
 
 ## 📂 Project Structure
+
 emotion-aware-study-buddy/
 │
 ├── app.py
